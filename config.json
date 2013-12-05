@@ -1,0 +1,11 @@
+{
+	"contentdir": "content",
+	"layoutdir": "layouts",
+	"publishdir": "public",
+	"builddrafts": false,
+	"indexes": {
+		   "position": "positions",
+		   "author": "authors"
+	},
+	"baseurl": "d.umn.edu/~sivelab"
+}

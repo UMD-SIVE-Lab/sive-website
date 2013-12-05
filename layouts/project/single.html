@@ -1,0 +1,20 @@
+{{ template "chrome/header.html" . }}
+<div>
+  <h1>{{ .Title }}</h1>
+  {{$root := .}}
+  {{if .Params.authors}}
+  Researchers:
+  {{end}}
+  {{range $index, $author := .Params.authors}}
+  {{range $page := $root.Site.Recent}}
+  {{if eq $page.FileName $author}}
+  {{if $index}}|{{end}}
+  <a href="http://{{$page.Permalink}}">{{$page.Title}}</a>
+  {{end}}
+  {{end}}
+  {{end}}
+</div>
+<div>
+  {{.Content}}
+</div>
+{{ template "chrome/footer.html" . }}

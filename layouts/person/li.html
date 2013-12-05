@@ -1,0 +1,8 @@
+<li>
+  <h2><a href="http://{{.Permalink}}">{{.Title}}</a>
+    {{range  .Params.positions}}
+    | {{ . }}
+    {{end}}
+ </h2>
+  {{ .Description }}
+</li>

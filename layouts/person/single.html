@@ -1,0 +1,25 @@
+{{ template "chrome/header.html" . }}
+<div>
+  <h1>{{ .Title }}</h1>
+  {{range $key, $value := .Params.positions}}
+  {{if $key}} | {{end}}{{$value}}
+  {{end}}
+</div>
+<div>
+  {{.Content}}
+
+  
+</div>
+{{if index .Site.Indexes.authors .FileName}}
+
+<div class="dark">
+<h2>Articles and Research</h2>
+</div>
+<ul>
+{{range index .Site.Indexes.authors .FileName}}
+{{.Page.Render "li"}}
+{{end}}
+</ul>
+
+{{end}}
+{{ template "chrome/footer.html" . }}

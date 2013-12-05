@@ -1,0 +1,93 @@
+body {
+    color: #6c6c6c;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 11pt;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header h1 {
+    display: inline-block;
+    border-right: 1px solid;
+    padding-right: 0.50em;
+}
+
+header span{
+    display: inline-block;
+    padding-left: 1.50em;
+}
+
+header ul {
+    position: absolute;
+    right: calc(50% - 600px);
+    top: 0px;
+    list-style: none;
+    margin: 0px;
+}
+
+header li {
+    display: block;
+    float: left;
+    line-height: 71px;
+}
+
+header li a{
+    display: inline-block;
+    text-align: center;
+    padding: 1em 1.5em;
+    width: 70px;
+    background: #ECECEC;
+    margin-left: 1px;
+    text-transform: uppercase;
+}
+
+header li a.current{
+    background: #2C383B;
+    color: #FFF;
+}
+
+a {
+    color: inherit;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+body>* {
+    margin: 0px;
+    padding-left: calc(50% - 600px);
+    padding-right: calc(50% - 600px);
+    padding-top: 5px;
+}
+
+footer {
+    text-align: center;
+}
+
+body>div {
+    padding-bottom: 5px;
+}
+
+body>div:first-of-type, .dark{
+    color: #C0C3C4;
+    background: #2C383B;
+}
+
+
+body>div:first-of-type a, .dark a{
+    color: #FFFFFF;
+}
+
+body>ul li{
+    list-style: none;
+}
+
+body>ul>li:nth-child(2n){
+    background: #ECECEC;
+}
