@@ -1,8 +1,9 @@
 {
 	"title": "Dr. Pete Willemsen",
-	"description": "some description",
-	"date": "2013-11-14",
+	"description": "Runs the lab.",
+	"date": "2013-12-13",
 	"status": "",
-	"positions": ["Lab Director", "Coolguy"]
+	"positions": ["Lab Director", "Associate Professor"]
 }
-Some description of Pete
+
+Teaches computer graphics, human computer interaction, and virtual reality.
