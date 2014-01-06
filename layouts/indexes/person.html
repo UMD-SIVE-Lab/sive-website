@@ -1,7 +1,16 @@
 {{template "chrome/header.html" .}}
+<div><h1>Director</h1>
+</div>
+<ul>
+{{ range .Data.Pages }}
+{{ if .Status === "director"}}
+{{.Render "li"}}
+{{ end }} 
+{{ end }}
+</ul>
+<br/>
 <div><h1>Current Researchers</h1>
 </div>
-
 <ul>
 {{ range .Data.Pages }}
 {{ if .Status }}
@@ -17,6 +26,5 @@
 {{.Render "li"}}
 {{ end }} 
 {{ end }}
-
 </ul>
 {{template "chrome/footer.html" .}}
