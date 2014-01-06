@@ -4,7 +4,7 @@
 </div>
 <ul>
 {{ range .Data.Pages }}
-{{ if isset .Status "active" }}
+{{ if .Status }}
 {{.Render "li"}}
 {{ end }} 
 {{ end }}
