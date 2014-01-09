@@ -5,7 +5,7 @@
 	"status": "active",
 	"positions": ["Graduate Research Assistant"]
 }
-Some description of Jack Gilbert
+Jack is a graduate student in the computer science department. Expected graduation date is roughly May 2014.
 ***
 
 - TPAWT Stereo Interface
