@@ -1,7 +1,7 @@
 {
 	"title": "Joshua Clark",
 	"description": "Defended in January 2012",
-	"date": "2013-06-04",
+	"date": "2012-01-14",
 	"status": "",
 	"positions": ["Graduate Research Assistant"]
 }
