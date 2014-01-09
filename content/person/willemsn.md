@@ -8,6 +8,6 @@
 
 ![Image of Pete](/media/pete.jpg "Pete")
 
-	<p><img src="media/pete.jpg" alt="Image of Pete."></p>
+<img src="media/pete.jpg" alt="Image of Pete.">
 
 Teaches computer graphics, human computer interaction, and virtual reality.
