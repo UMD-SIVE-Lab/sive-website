@@ -6,5 +6,6 @@
 	"positions": ["Lab Director", "Associate Professor"]
 }
 
-![Alt text](/media/pete.jpg "Pete")
+![Image of Pete](/media/pete.jpg "Pete")
+
 Teaches computer graphics, human computer interaction, and virtual reality.
