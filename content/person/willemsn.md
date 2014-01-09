@@ -6,8 +6,6 @@
 	"positions": ["Lab Director", "Associate Professor"]
 }
 
-![Image of Pete](/media/pete.jpg "Pete")
-
-<img src="media/pete.jpg" alt="Image of Pete.">
+![Image of Pete](http://d.umn.edu/~sivelab/media/pete.jpg "Pete")
 
 Teaches computer graphics, human computer interaction, and virtual reality.
