@@ -1,7 +1,7 @@
 {
 	"title": "Siddharth Deokar",
 	"description": "Defended in August 2009",
-	"date": "2013-06-04",
+	"date": "2009-08-01",
 	"status": "",
 	"positions": ["Graduate Research Assistant"]
 }

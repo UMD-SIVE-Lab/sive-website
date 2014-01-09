@@ -1,7 +1,7 @@
 {
 	"title": "Gai Geng",
 	"description": "Defended in February 2014",
-	"date": "2013-06-04",
+	"date": "2014-02-15",
 	"status": "",
 	"positions": ["Graduate Research Assistant"]
 }

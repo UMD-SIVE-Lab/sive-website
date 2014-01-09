@@ -1,7 +1,7 @@
 {
 	"title": "Aditya Vegesna",
-	"description": "Defended in June 2013",
-	"date": "2013-06-04",
+	"description": "Completed in July 2013",
+	"date": "2013-07-16",
 	"status": "",
 	"positions": ["Graduate Research Assistant"]
 }
