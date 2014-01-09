@@ -3,6 +3,6 @@
 	"description": "Undergradate UROP",
 	"date": "2013-11-14",
 	"status": "active",
-	"positions": ["Undergrad Research Assistant"]
+	"positions": ["UROP"]
 }
 Some description of Steve
