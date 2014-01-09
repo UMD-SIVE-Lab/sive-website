@@ -1,7 +1,7 @@
 {
 	"title": "Scot Halverson",
-	"description": "Defended in June 2012",
-	"date": "2013-06-04",
+	"description": "Completed in June 2012",
+	"date": "2012-05-03",
 	"status": "",
 	"positions": ["Graduate Research Assistant"]
 }
