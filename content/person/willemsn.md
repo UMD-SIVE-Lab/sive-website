@@ -1,9 +1,9 @@
 {
 	"title": "Dr. Pete Willemsen",
 	"description": "Runs the lab.",
-	"date": "2013-12-13",
+	"date": "2005-08-26",
 	"status": "director",
 	"positions": ["Lab Director", "Associate Professor"]
 }
-
+![Alt text](media/pete.jpg "Pete")
 Teaches computer graphics, human computer interaction, and virtual reality.
