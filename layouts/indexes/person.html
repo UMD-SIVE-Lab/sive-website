@@ -4,12 +4,12 @@
 </div>
 <ul>
 {{ range .Data.Pages }}
-{{ if .Status }}
+{{ if eq .Status "active" }}
 {{.Render "li"}}
 {{ end }} 
 {{ end }}
 </ul>
-<div><h1>Director</h1>
+<div class="dark"><h1>Director</h1>
 </div>
 <ul>
 {{ range .Data.Pages }}
