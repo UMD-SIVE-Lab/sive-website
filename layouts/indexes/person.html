@@ -13,7 +13,7 @@
 </div>
 <ul>
 {{ range .Data.Pages }}
-{{ if isset .Status "director" }}
+{{ if eq .Status "director" }}
 {{.Render "li"}}
 {{ end }} 
 {{ end }}
