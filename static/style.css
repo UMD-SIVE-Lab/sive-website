@@ -12,7 +12,7 @@ header a {
 }
 
 header h1 {
-    color: #DDAA11;  /* Trying UM Gold rather than FFF; */
+    color: #FFF;
     display: inline-block;
     border-right: 1px solid;
     padding-right: 0.50em;
@@ -76,7 +76,7 @@ body>div {
 }
 
 body>div:first-of-type, .dark{
-    color: C0C3C4;
+    color: #DDAA11;  /* C0C3C4; */
     background: #7A0019;  /* 2C383B; */
 }
 
