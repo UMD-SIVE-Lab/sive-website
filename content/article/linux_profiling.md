@@ -32,13 +32,17 @@ There are 3 main steps to getting this to work:
 3. Run gprof, gprof2Dot, and dot on the profile output of your application
 
 Building applications with profiling support is pretty strait-forward. For the gcc compilers, all that's needed is the compiler flag `-pg`. Lets say we have a file `testApp.cpp` which we want to compile with profiler support. Normally, we'd compile it like this:
+
 ```
 g++ testApp.cpp -o testApp
 ```
+
 To get profiling support, we just add the `-pg` flag like so:
+
 ```
 g++ -pg testApp.cpp -o testApp
 ```
+
 Assuming it compiles without errors, testApp should now support profiling. Note that for CMake and Makefiles, the `-pg` flag may need to be added to the linker commands as well.
 
 Now that we've added profiling support to the application, we need to run it. Note that the profile output will reflect how the application was run, so if the application is interactive in some way, you'll likely want to run through a use-case that you find interesting.
@@ -46,19 +50,25 @@ Now that we've added profiling support to the application, we need to run it. No
 In the case of our testApp, simply running `./testApp` is all we need to do. You'll notice at this point that aside from any other output the application produces, it will also produce a file called `gmon.out`. This is the profiler information for the run of the application.
 
 `gmon.out` is a mostly illegible file. We need gprof to interpret it. At this point, you could just use gprof and get some useful information. To do so, you would run the following command:
+
 ```
 gprof [application name]
 ```
+
 Where `[application name]` is the name of the executable you're running. In the case of testApp, we'd run the following command:
+
 ```
 gprof testApp
 ```
+
 This produces a large amount of information about the execution of your application. Everything you need to know is there, but it may be a bit complicated to interpret. That's where visualizing the information comes in.
 
 To visualize the information like the graph above, we need to do some additional work with gprof2Dot and dot. Assuming gprof2Dot.py is in the directory of your application and graphViz is installed, you should be able to run something similar to the following command:
+
 ```
 gprof testApp | ./gprof2dot.py -n 2.5 -e 2.5 -s | dot -Tpng -o output.png
 ```
+
 This works by piping the output from gprof into gprof2Top. The output from that is then piped into dot. The end product (in this case) is a png file displaying the call structure of the application. Note that there are several settings here which can be configured:
 
 * -n 2.5 - this sets the minimum execution percentage for a graph node to show up in the graph. In this case, it means that any function that is not using 2.5% or more of the execution time is not displayed.
