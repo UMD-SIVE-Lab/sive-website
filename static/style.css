@@ -94,3 +94,14 @@ body>ul li{
 body>ul>li:nth-child(2n){
     background: #ECECEC;
 }
+
+code {
+    color: black;
+    border-radius: 3px;
+    background-color: #ECECEC;
+    padding: 0px 5px;
+}
+
+pre>code {
+    padding: 7px;
+}
