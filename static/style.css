@@ -1,7 +1,9 @@
 body {
     /* This is a little too grey for some monitors for readability - color: #6c6c6c; */
+    color: #6c6c6c;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 12pt;
+    /* Perhaps with normal font weight, the grey will be OK. */
     font-weight: 300;
     margin: 0px;
     padding: 0px;
