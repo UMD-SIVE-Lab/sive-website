@@ -7,7 +7,7 @@
 
 Profiling an application can be pretty useful. Visualizing it in a meaningful way can be even more helpful. Following the information in this post should get you on the right track to creating useful visualizations of your application like this:
 
-![Image of Profiler](example.jpg "Profiler Example")
+![Image of Profiler](example.png "Profiler Example")
 
 So what does this actually give you?
 -----------
