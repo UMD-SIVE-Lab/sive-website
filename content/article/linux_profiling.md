@@ -11,10 +11,10 @@ Profiling an application can be pretty useful. Visualizing it in a meaningful wa
 
 So what does this actually give you?
 -----------
-*A visual representation of how your application is executing
-*The percent of execution time spent in each function/method
-*Color coding for percentage of execution time
-*A function/method call count for each function/method in your application
+* A visual representation of how your application is executing
+* The percent of execution time spent in each function/method
+* Color coding for percentage of execution time
+* A function/method call count for each function/method in your application
 
 Great, so what do you need?
 -----------
@@ -25,27 +25,27 @@ Great, so what do you need?
 
 Ok, so how do you use it?
 -----------
-
 There are 3 main steps to getting this to work:
+
 1. Build your application with profiling support
 2. Run your application
 3. Run gprof, gprof2Dot, and dot on the profile output of your application
 
-Building applications with profiling support is pretty strait-forward. For the gcc compilers, all that's needed is the compiler flag '-pg'. Lets say we have a file testApp.cpp which we want to compile with profiler support. Normally, we'd compile it like this:
+Building applications with profiling support is pretty strait-forward. For the gcc compilers, all that's needed is the compiler flag `-pg`. Lets say we have a file `testApp.cpp` which we want to compile with profiler support. Normally, we'd compile it like this:
 ```
 g++ testApp.cpp -o testApp
 ```
-To get profiling support, we just add the '-pg' flag like so:
+To get profiling support, we just add the `-pg` flag like so:
 ```
 g++ -pg testApp.cpp -o testApp
 ```
-Assuming it compiles without errors, testApp should now support profiling. Note that for CMake and Makefiles, the '-pg' flag may need to be added to the linker commands as well.
+Assuming it compiles without errors, testApp should now support profiling. Note that for CMake and Makefiles, the `-pg` flag may need to be added to the linker commands as well.
 
 Now that we've added profiling support to the application, we need to run it. Note that the profile output will reflect how the application was run, so if the application is interactive in some way, you'll likely want to run through a use-case that you find interesting.
 
-In the case of our testApp, simply running ./testApp is all we need to do. You'll notice at this point that aside from any other output the application produces, it will also produce a file called gmon.out. This is the profiler information for the run of the application.
+In the case of our testApp, simply running `./testApp` is all we need to do. You'll notice at this point that aside from any other output the application produces, it will also produce a file called `gmon.out`. This is the profiler information for the run of the application.
 
-gmon.out is a mostly illegible file. We need gprof to interpret it. At this point, you could just use gprof and get some useful information. To do so, you would run the following command:
+`gmon.out` is a mostly illegible file. We need gprof to interpret it. At this point, you could just use gprof and get some useful information. To do so, you would run the following command:
 ```
 gprof [application name]
 ```
