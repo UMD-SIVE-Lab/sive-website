@@ -3,7 +3,7 @@
 	"description": "GEnUSiS - Green Environmental Urban Simulations for Sustainability.",
 	"date": "2010-11-14",
 	"status": "active",
-	"authors": ["willemsn.md", "over0219.md", "thoma891.md", "halve160.md", "clark617.md", "norg0039.md"]
+	"authors": ["willemsn.md", "over0219.md", "thoma891.md", "veges002.md", "halve160.md", "lars2865.md", "clark617.md", "norg0039.md"]
 }
 
 ![Image from QUIC EnvSim](http://d.umn.edu/~sivelab/media/genusis_header.jpg "GEnUSiS")
