@@ -12,6 +12,7 @@ header a {
 }
 
 header h1 {
+    color: #DDAA11;  /* Trying UM Gold rather than FFF; */
     display: inline-block;
     border-right: 1px solid;
     padding-right: 0.50em;
