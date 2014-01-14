@@ -74,6 +74,8 @@ opinions, findings, and conclusions or recommendations expressed in
 this material are those of the author(s) and do not necessarily
 reflect the views of the National Science Foundation.
 
+* NSF Award: 1162131. 10/01/2012-09/30/2016. HCC: Medium: Collaborative Research: Haptic Display of Terrain Characteristics and its Application in Virtual and Physical Worlds.
+
 Collaborators
 =============
 

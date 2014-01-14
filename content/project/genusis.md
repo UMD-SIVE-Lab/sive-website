@@ -51,6 +51,11 @@ provide unprecedented understanding and refinement of the complex
 physical processes associated with the energy balance and pollutant
 dispersion in an urban setting.
 
+Additional Links
+================
+* [GEnUSiS Project - Environmental Simulation within the Urban Environment](http://envsim.d.umn.edu/)
+* [GPU Environmental Simulation Software](http://www.d.umn.edu/~willemsn/gpuPlume/)
+
 Funding Source
 ==============
 
@@ -63,6 +68,9 @@ No. CBET-1133590 (UMD), CBET-1134580 (Utah), and CBET-0828206
 (UMD). Any opinions, findings, and conclusions or recommendations
 expressed in this material are those of the author(s) and do not
 necessarily reflect the views of the National Science Foundation.
+
+* NSF Award: 1133590. 10/01/2011-09/30/2014. IDR-Collaborative Research: The impact of green infrastructure on urban microclimate and energy use.
+* NSF Award: 0828206. Ended 01/31/2012. Collaborative Research: Optimization of Urban Designs for Air Quality and Energy Efficiency.
 
 Collaborators
 =============
