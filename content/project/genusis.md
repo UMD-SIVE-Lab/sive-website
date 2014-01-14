@@ -51,8 +51,8 @@ provide unprecedented understanding and refinement of the complex
 physical processes associated with the energy balance and pollutant
 dispersion in an urban setting.
 
-Short About
-===========
+Funding Source
+==============
 
 GEnUSiS stands for Green Environmental Urban Simulations for
 Sustainability. This project uses large-scale simulation science to

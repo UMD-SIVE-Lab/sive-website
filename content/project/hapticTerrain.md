@@ -9,6 +9,8 @@
 Project Overview
 ================
 
+![Image from ongoing work on the immersive display.](http://d.umn.edu/~sivelab/media/hapticTerrain_011314.jpg "Haptic Terrain Stereo Display System")
+
 The PIs' goal in this research is to realistically display terrain in
 an immersive Virtual Reality (VR) locomotion interface, based upon
 modification of the foot/terrain interaction coupled with graphical
@@ -63,8 +65,8 @@ disseminated via websites and at major conferences, and also
 integrated into the robotics, virtual reality, ergonomics, and
 physical therapy curricula.
 
-Short About
-===========
+Funding Source
+==============
 
 This material is based upon work supported by the National Science
 Foundation under Grants No. IIS-1162131 and IIS-1162617 (Utah).  Any
