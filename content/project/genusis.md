@@ -53,8 +53,8 @@ dispersion in an urban setting.
 
 Additional Links
 ================
-[GEnUSiS Project - Environmental Simulation within the Urban Environment](http://envsim.d.umn.edu/)
-[GPU Environmental Simulation Software](http://www.d.umn.edu/~willemsn/gpuPlume/)
+* [GEnUSiS Project - Environmental Simulation within the Urban Environment](http://envsim.d.umn.edu/)
+* [GPU Environmental Simulation Software](http://www.d.umn.edu/~willemsn/gpuPlume/)
 
 Funding Source
 ==============
