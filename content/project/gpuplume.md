@@ -18,6 +18,7 @@ impact of building location and form on pollution dispersal and energy
 needs.
 
 ![Image from GPU Plume](http://d.umn.edu/~sivelab/media/gpuPlume_image.jpg "GPU Plume")
+
 > Our research utilizes GPUs to accelerate dispersion simulation and heat energy transfer to solve problems related to minimizing pollution and energy usage in urban environments.
 
 While prior research enabled single simulations that could predict the impact of a particular design on pollution concentrations, by harnessing the multi-core power of computer graphics hardware (i.e. Graphics Processing Units or GPUs) to quickly run many thousands of simulations, this research is building tools that can suggest best-case designs to urban planners, potentially enabling cities that trap less pollution and require less energy to heat and cool.
