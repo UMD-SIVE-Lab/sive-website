@@ -14,8 +14,8 @@ Short About
 ===========
 
 ![Image from the annotate view in the app.](http://d.umn.edu/~sivelab/media/biomech_annotate.png "Biomechanics App - Annotate")
-![Image from the analysis view in the app.](http://d.umn.edu/~sivelab/media/biomech_analysis.png "Biomechanics App - Analysis")
-
+![Image from the analysis view in the app.](http://d.umn.edu/~sivelab/media/biomech_jointAngle.png "Biomechanics App - Analysis")
+![Image from the analysis view in the app.](http://d.umn.edu/~sivelab/media/biomech_velocity.png "Biomechanics App - Analysis")
 Collaborators
 =============
 
