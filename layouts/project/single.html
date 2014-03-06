@@ -18,13 +18,4 @@
   {{.Content}}
 </div>
 
-<div class="dark">
-<h2>Related Articles</h2>
-</div>
-<ul>
-{{range index .Site.Indexes.projects .FileName}}
-{{.Page.Render "li"}}
-{{end}}
-</ul>
-
 {{ template "chrome/footer.html" . }}
