@@ -6,6 +6,10 @@
   Authors:
   {{end}}
   {{range $index, $author := .Params.authors}}{{range $page := $root.Site.Recent}}{{if eq $page.FileName $author}}{{if $index}}|{{end}}<a href="http://{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
+  {{if .Params.projects}}
+  Projects:
+  {{end}}
+  {{range $index, $project := .Params.projects}}{{range $page := $root.Site.Recent}}{{if eq $page.FileName $project}}{{if $index}}|{{end}}<a href="http://{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
 <br/>
 Published: {{.Date.Format "January 2, 2006"}}
 </div>

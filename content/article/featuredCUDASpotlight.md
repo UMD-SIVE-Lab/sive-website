@@ -3,6 +3,7 @@
 	"description": "GPUs for Green Urban Planning using NVIDIA Hardware",
 	"date": "2012-08-13",
 	"authors": ["willemsn.md"]
+	"projects": ["genusis.md"]
 }
 
 GPUs for Green Urban Planning
