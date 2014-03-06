@@ -6,6 +6,7 @@
 	"indexes": {
 		   "position": "positions",
 		   "author": "authors"
+		   "project": "projects"
 	},
 	"baseurl": "d.umn.edu/~sivelab"
 }
