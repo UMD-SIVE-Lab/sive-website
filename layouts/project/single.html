@@ -18,4 +18,17 @@
   {{.Content}}
 </div>
 
+{{if index .Site.Indexes.projects .FileName}}
+
+<div class="dark">
+<h2>Related Articles</h2>
+</div>
+<ul>
+{{range index .Site.Indexes.projects .FileName}}
+{{.Page.Render "li"}}
+{{end}}
+</ul>
+
+{{end}}
+
 {{ template "chrome/footer.html" . }}
