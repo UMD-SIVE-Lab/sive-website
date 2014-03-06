@@ -14,7 +14,7 @@ to teach computer programming to elementary students. Through learning a little 
 
 Currently, elementary students and even middle or high school aged students do not get exposed to programming or computer science. The following video provides motivation for why learning to code is valuable:
 
-[![What Schools Don't Teach Image](http://img.youtube.com/vi/nKIu9yen5nc/0.jpg)](http://www.youtube.com/watch?v=nKIu9yen5nc&feature=share&desktop_uri=%2Fwatch%3Fv%3DnKIu9yen5nc%26feature%3Dshare&app=desktop)
+[![What Schools Don't Teach Image](http://img.youtube.com/vi/nKIu9yen5nc/0.jpg)](http://www.youtube.com/watch?v=nKIu9yen5nc&feature=player_embedded)
 
 Our approach will be to use MIT's [Scratch Programming Language](http://scratch.mit.edu/) to teach students all about coding and problem solving in an exciting and engaging manner.  Scratch is freely available and can be used directly on the web or downloaded onto your computer. The following video highlights Scratch and provides an introduction to programming with Scratch:
 
