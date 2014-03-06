@@ -72,6 +72,12 @@ necessarily reflect the views of the National Science Foundation.
 * NSF Award: 1133590. 10/01/2011-09/30/2014. IDR-Collaborative Research: The impact of green infrastructure on urban microclimate and energy use.
 * NSF Award: 0828206. Ended 01/31/2012. Collaborative Research: Optimization of Urban Designs for Air Quality and Energy Efficiency.
 
+Related Thesis Documents
+========================
+* Vegesna, A. _Optimizing Urban Environmental Simulations using BOINC_. M.S. Thesis, University of Minnesota Duluth. June 2013. [PDF](http://www.d.umn.edu/cs/thesis/Vegesna_AdityaThesis%20August%202013.pdf)
+* Halverson, S. _Energy Transfer Ray Tracing with OptiX_. M.S. Thesis, University of Minnesota Duluth. June 2012. [PDF](http://www.d.umn.edu/cs/thesis/Halverson_ScotJune2012-1.pdf)
+* Clark, J. _A Fast and Efficient Simulation Framework for Modeling Heat Transport_. M.S. Thesis, University of Minnesota Duluth. January 2012. [PDF](http://www.d.umn.edu/cs/thesis/Joshua_ClarkJanuary2012.pdf)
+
 Collaborators
 =============
 
