@@ -1,6 +1,6 @@
 {
-	"title": "Featured on NVIDIA's CUDA Spotlight",
-	"description": "GPUs for Green Urban Planning using NVIDIA Hardware",
+	"title": "Sky View Factor for Salt Lake City Database",
+	"description": "SVF for SLC Database at 2.3km x 2.3km",
 	"date": "2012-05-12",
 	"authors": ["willemsn.md"]
 	"projects": ["genusis.md"]
