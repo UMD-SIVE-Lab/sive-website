@@ -13,7 +13,7 @@ system as parameters. He also performed the investigative tests and
 analysis of the optimization system using  the NSF-funded BOINC system
 for accessing grid/volunteer computing.
 
-* Optimizing Urban Environmental Simulations using BOINC - [M.S. Thesis PDF](http://www.d.umn.edu/cs/thesis/Vegesna_AdityaThesis%20August%202013.pdf) 
+* Optimizing Urban Environmental Simulations using BOINC, A. Vegesna. 2013. - [M.S. Thesis PDF](http://www.d.umn.edu/cs/thesis/Vegesna_AdityaThesis%20August%202013.pdf) 
 
 This material is based upon work supported by the National Science
 Foundation under Grant No. 1133590.
