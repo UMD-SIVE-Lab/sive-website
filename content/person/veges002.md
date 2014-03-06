@@ -6,7 +6,7 @@
 	"positions": ["Graduate Research Assistant"]
 }
 
-Aditya worked on the optimization system used in this GEnUSiS
+Aditya worked on the optimization system used in the GEnUSiS
 Project. He focused on developing a language that facilitates running
 optimization using of any of the variables within the QUIC EnvSim
 system as parameters. He also performed the investigative tests and
