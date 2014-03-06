@@ -13,9 +13,11 @@ Computer programming is more than building software. Learning how to program a c
 to teach computer programming to elementary students. Through learning a little programming, students will learn to _make_ things, develop problem solving skills, and engage themselves creatively in activities that are truly fun and rewarding.
 
 Currently, elementary students and even middle or high school aged students do not get exposed to programming or computer science. The following video provides motivation for why learning to code mis valuable:
+
 * [What Schools Don't Teach](http://www.youtube.com/watch?v=nKIu9yen5nc&feature=share&desktop_uri=%2Fwatch%3Fv%3DnKIu9yen5nc%26feature%3Dshare&app=desktop)
  
 Our approach will be to use MIT's [Scratch Programming Language](http://scratch.mit.edu/) to teach students all about coding and problem solving in an exciting and engaging manner.  Scratch is freely available and can be used directly on the web or downloaded onto your computer. The following video highlights Scratch and provides an introduction to programming with Scratch:
+
 * [Introduction to Scratch Programming](http://vimeo.com/29457909)
 
 
