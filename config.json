@@ -5,7 +5,7 @@
 	"builddrafts": false,
 	"indexes": {
 		   "position": "positions",
-		   "author": "authors"
+		   "author": "authors",
 		   "project": "projects"
 	},
 	"baseurl": "d.umn.edu/~sivelab"
