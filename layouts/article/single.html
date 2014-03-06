@@ -6,6 +6,7 @@
   Authors:
   {{end}}
   {{range $index, $author := .Params.authors}}{{range $page := $root.Site.Recent}}{{if eq $page.FileName $author}}{{if $index}}|{{end}}<a href="http://{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
+<br/>
   {{if .Params.projects}}
   Projects:
   {{end}}
