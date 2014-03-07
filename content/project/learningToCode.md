@@ -20,5 +20,7 @@ Our approach will be to use MIT's [Scratch Programming Language](http://scratch.
 
 * [Introduction to Scratch Programming](http://vimeo.com/29457909)
 
+Curriculum
+==========
 
 
