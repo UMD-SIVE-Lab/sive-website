@@ -16,11 +16,11 @@ Currently, elementary students and even middle or high school aged students do n
 
 [![What Schools Don't Teach Image](http://img.youtube.com/vi/nKIu9yen5nc/0.jpg)](http://www.youtube.com/watch?v=nKIu9yen5nc&feature=player_embedded)
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
+
 Our approach will be to use MIT's [Scratch Programming Language](http://scratch.mit.edu/) to teach students all about coding and problem solving in an exciting and engaging manner.  Scratch is freely available and can be used directly on the web or downloaded onto your computer. The following video highlights Scratch and provides an introduction to programming with Scratch:
 
 * [Introduction to Scratch Programming](http://vimeo.com/29457909)
 
 Curriculum
 ==========
-
-
