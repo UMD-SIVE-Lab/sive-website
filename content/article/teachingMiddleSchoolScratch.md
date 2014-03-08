@@ -3,7 +3,7 @@
 	"description": "Undergraduates teach middle schoolers how to program using Scratch",
 	"date": "2014-03-07",
 	"authors": ["willemsn.md"]
-	"projects": ["genusis.md"]
+	"projects": ["learningToCode.md"]
 }
 
 Article on using Scratch to Teach Programming to Middle Schoolers
