@@ -22,3 +22,6 @@ Our approach will be to use MIT's [Scratch Programming Language](http://scratch.
 
 Curriculum
 ==========
+
+The curriculum that we will use in the classes will be posted here.
+
