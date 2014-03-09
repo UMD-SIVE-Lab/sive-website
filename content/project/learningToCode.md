@@ -9,10 +9,10 @@
 Project Overview
 ================
 
-Computer programming is more than building software. Learning how to program a computer, in any way, teaches a multitude of problem solving skills. This project is aimed at providing experiences
+Computer programming is more than building software. Learning how to program a computer, in any way, teaches a multitude of problem solving skills. This project is aimed at improving problem solving skills by providing experiences
 to teach computer programming to elementary students. Through learning a little programming, students will learn to _make_ things, develop problem solving skills, and engage themselves creatively in activities that are truly fun and rewarding.
 
-Currently, elementary students and even middle or high school aged students do not get exposed to programming or computer science. The following video provides motivation for why learning to code is valuable:
+Currently, elementary students and even middle or high school aged students do not get exposure to programming or computer science. The following video provides motivation for why learning to code is valuable:
 
 [![What Schools Don't Teach Image](http://img.youtube.com/vi/nKIu9yen5nc/0.jpg)](http://www.youtube.com/watch?v=nKIu9yen5nc&feature=player_embedded)
 
