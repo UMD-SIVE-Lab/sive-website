@@ -3,7 +3,7 @@
 	"description": "Second Grade Field Trip to Learn about Computer Science",
 	"date": "2013-05-02",
 	"authors": ["willemsn.md"]
-	"projects": ["genusis.md","hapticTerrain.md","learningToCode.md"]
+	"projects": ["hapticTerrain.md", "learningToCode.md", "genusis.md"] 
 }
 
 Congdon Park Field Trip - Learning about Computer Science
