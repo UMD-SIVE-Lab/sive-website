@@ -23,8 +23,16 @@ Our approach will be to use MIT's [Scratch Programming Language](http://scratch.
 Curriculum
 ==========
 
-The curriculum that we will use in the classes will be posted here.
+We have currently focuse on providing three sessions, each about one hour long to third grade level elementary students. The curriculum we used in each session will follow.
 
+Session 1 - Scratch Introduction
+--------------------------------
+
+Session 2 - 
+--------------------------------
+
+Session 3 - 
+--------------------------------
 
 
 Student Collaborators
