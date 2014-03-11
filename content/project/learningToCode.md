@@ -25,3 +25,16 @@ Curriculum
 
 The curriculum that we will use in the classes will be posted here.
 
+
+
+Student Collaborators
+=====================
+
+Teaching problem solving skills and computer programming to elementary students would not be possible without the dedication and help of undergraduate students in the [Department of Computer Science](http://www.d.umn.edu/cs) at [UMD](http://www.d.umn.edu). The following students have volunteered their time, helping to foster and develop the leaders of the future:
+
+* Justin Forsberg
+* Jessica Joyal
+* Grant Phillips
+* Max Steel
+
+
