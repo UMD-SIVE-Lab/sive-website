@@ -42,6 +42,7 @@ Teaching problem solving skills and computer programming to elementary students 
 
 * Justin Forsberg
 * Jessica Joyal
+* Mehdi Mohsenian
 * Grant Phillips
 * Max Steel
 
