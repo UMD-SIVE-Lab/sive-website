@@ -20,11 +20,6 @@ Our approach will be to use MIT's [Scratch Programming Language](http://scratch.
 
 <iframe src="//player.vimeo.com/video/65583694?title=0&amp;byline=0&amp;portrait=0" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/65583694">Intro to Scratch 2.0</a> from <a href="http://vimeo.com/scratchedteam">ScratchEd</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Curriculum Ideas
-================
-
-For the first pass at this project, we are providing three sessions, each about one hour long to third grade elementary students. The curriculum we developed (and refined) in these session will be linked below.
-
 Resources
 ---------
 There are many Scratch resources on the Internet. Some particularly useful ones are listed below:
@@ -32,6 +27,11 @@ There are many Scratch resources on the Internet. Some particularly useful ones 
 * [Scratch Getting Started Guide - PDF](Getting-Started-Guide-Scratch2.pdf) - The _Getting Started Guide_ for Scratch will help you get a simple project going.
 * [Scratch Video Tutorials](http://scratch.mit.edu/help/videos/) - The video tutorials for Scratch are great for giving you a way to see how to make things happen with the Scratch blocks and scripts.
 * [Scratch Quick Cards](http://scratch.mit.edu/help/cards/) - These cards provide quick references for a variety of programming ideas using simple sets of blocks.
+
+Curriculum Ideas
+================
+
+For the first pass at this project, we are providing three sessions, each about one hour long to third grade elementary students. The curriculum we developed (and refined) in these session will be linked below.
 
 ### Session 1 - Scratch Introduction
 
@@ -49,5 +49,7 @@ Teaching problem solving skills and computer programming to elementary students 
 * Mehdi Mohsenian
 * Grant Phillips
 * Max Steel
+
+
 
 
