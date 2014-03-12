@@ -30,6 +30,7 @@ Resources
 There are many Scratch resources on the Internet. Some particularly useful ones are listed below:
 
 * [Scratch Getting Started Guide - PDF](Getting-Started-Guide-Scratch2.pdf) - The _Getting Started Guide_ for Scratch will help you get a simple project going.
+* [Scratch Video Tutorials](http://scratch.mit.edu/help/videos/) - The video tutorials for Scratch are great for giving you a way to see how to make things happen with the Scratch blocks and scripts.
 * [Scratch Quick Cards](http://scratch.mit.edu/help/cards/) - These cards provide quick references for a variety of programming ideas using simple sets of blocks.
 
 ### Session 1 - Scratch Introduction
@@ -37,7 +38,6 @@ There are many Scratch resources on the Internet. Some particularly useful ones 
 ### Session 2 - 
 
 ### Session 3 - 
-
 
 Student Collaborators
 =====================
