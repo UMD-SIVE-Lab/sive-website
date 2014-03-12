@@ -28,6 +28,7 @@ For the first pass at this project, we are providing three sessions, each about 
 Resources
 ---------
 There are many Scratch resources on the Internet. Some particularly useful ones are listed below:
+
 * [Scratch Getting Started Guide - PDF](Getting-Started-Guide-Scratch2.pdf) - The _Getting Started Guide_ for Scratch will help you get a simple project going.
 * [Scratch Quick Cards](http://scratch.mit.edu/help/cards/) - These cards provide quick references for a variety of programming ideas using simple sets of blocks.
 
