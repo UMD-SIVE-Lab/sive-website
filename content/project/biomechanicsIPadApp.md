@@ -13,6 +13,7 @@ The discipline of biomechanics focuses on the study of human motion and in parti
 Short About
 ===========
 
+![Image from the annotate view in the app.](http://d.umn.edu/~sivelab/media/biomech_main_menu.png "Biomechanics App - Menu Screen")
 ![Image from the annotate view in the app.](http://d.umn.edu/~sivelab/media/biomech_annotate.png "Biomechanics App - Annotate")
 ![Image from the analysis view in the app.](http://d.umn.edu/~sivelab/media/biomech_jointAngle_resized.png "Biomechanics App - Analysis")
 ![Image from the analysis view in the app.](http://d.umn.edu/~sivelab/media/biomech_velocity_resized.png "Biomechanics App - Analysis")
