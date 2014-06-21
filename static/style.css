@@ -106,4 +106,6 @@ pre>code {
     padding: 7px;
 }
 
+img[alt=SMthumbnail] { width: 320px; }
+img[alt=MDthumbnail] { width: 480px; }
 img[alt=LGthumbnail] { width: 640px; }
