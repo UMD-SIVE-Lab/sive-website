@@ -8,6 +8,6 @@
 
 ![Image of UMD LEMS - June 2014](http://d.umn.edu/~sivelab/media/UMD_LEMS_Jun2014.jpg "UMD LEMS")
 
-![Live data from LEMS](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS")
+![LGthumbnail](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS")
 
 [LEMS Homepage at Utah][http://www.mech.utah.edu/~pardyjak/Instruments.php]
