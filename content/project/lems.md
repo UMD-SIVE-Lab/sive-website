@@ -1,6 +1,6 @@
 {
-	"title": "LEMS",
-	"description": "LEMS - Local Energy-budget Measurement Stations.",
+	"title": "LEMS - Local Energy-budget Measurement Stations",
+	"description": "Local Energy-budget Measurement Station at UMD.",
 	"date": "2012-06-13",
 	"status": "active",
 	"authors": ["willemsn.md", "over0219.md"]
