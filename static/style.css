@@ -109,3 +109,5 @@ pre>code {
 img[alt=SMthumbnail] { width: 320px; }
 img[alt=MDthumbnail] { width: 480px; }
 img[alt=LGthumbnail] { width: 640px; }
+img[alt=VLthumbnail] { width: 800px; }
+img[alt=XLthumbnail] { width: 1000px; }

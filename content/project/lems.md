@@ -11,7 +11,7 @@ Beginning in June 2012, as part of outreach activities for the [NSF-funded GEnUS
 As of June 2014, the LEMS has been setup on the UMD Campus. The LEMS itself and a live feed of the data are shown below:
 
 ![SMthumbnail](http://d.umn.edu/~sivelab/media/UMD_LEMS_Jun2014.jpg "UMD LEMS - June 2014")
-![LGthumbnail](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS")
+![VLthumbnail](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS")
 
 A full size image of the data plot can be acquired here: [Full Size LEMS Data](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS Data").
 
