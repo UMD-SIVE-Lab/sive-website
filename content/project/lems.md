@@ -10,8 +10,8 @@ Beginning in June 2012, as part of outreach activities for the [NSF-funded GEnUS
 
 As of June 2014, the LEMS has been setup on the UMD Campus. A picture of the installed LEMS and a live feed of the data are shown below. The plot is for the last 24 hours. You'll need to refresh the page to have the image update.
 
-![SMthumbnail](http://d.umn.edu/~sivelab/media/UMD_LEMS_Jun2014.jpg "UMD LEMS - June 2014") ![VLthumbnail](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS")
+![SMthumbnail](http://d.umn.edu/~sivelab/media/UMD_LEMS_Jun2014.jpg "UMD LEMS - June 2014") ![VLthumbnail](http://d.umn.edu/~willemsn/LEMS/LEMSO%2007-21-14%2010.53.50.png "LEMS")
 
-A full size image of the data plot can be acquired here: [Full Size LEMS Data](http://d.umn.edu/~willemsn/LEMS/LEMSO%2006-20-14%2011.07.31.png "LEMS Data").
+A full size image of the data plot can be acquired here: [Full Size LEMS Data](http://d.umn.edu/~willemsn/LEMS/LEMSO%2007-21-14%2010.53.50.png "LEMS Data").
 
 More detail on the LEMS can be found on Dr. Eric Pardyjak's website: [LEMS Homepage at Utah](http://www.mech.utah.edu/~pardyjak/Instruments.php).
