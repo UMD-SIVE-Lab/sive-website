@@ -2,7 +2,7 @@
 	"title": "David Maki",
 	"description": "Undergradate UROP",
 	"date": "2013-11-14",
-	"status": "active",
+	"status": "",
 	"positions": ["UROP"]
 }
 
