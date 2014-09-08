@@ -69,7 +69,7 @@ physical therapy curricula.
 Recent Updates
 ==============
 
-[![Locomotion](https://www.youtube.com/watch?v=rf6UpAUyGg8/0.jpg](https://www.youtube.com/watch?v=rf6UpAUyGg8)
+![Locomotion][https://www.youtube.com/watch?v=rf6UpAUyGg8/0.jpg](https://www.youtube.com/watch?v=rf6UpAUyGg8)
 
 Funding Source
 ==============
