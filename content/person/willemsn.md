@@ -8,4 +8,4 @@
 
 ![Image of Pete](http://d.umn.edu/~sivelab/media/pete.jpg "Pete")
 
-Teaches computer graphics, human computer interaction, and virtual reality.
+Teaches computer graphics, human computer interaction, and virtual reality.  Main website is located here: [Pete Willemsen](http://www.d.umn.edu/~willemsn/)
