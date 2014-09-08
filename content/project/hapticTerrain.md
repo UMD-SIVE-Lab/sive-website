@@ -69,7 +69,7 @@ physical therapy curricula.
 Recent Updates
 ==============
 
-[[embed url=https://www.youtube.com/watch?v=rf6UpAUyGg8]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf6UpAUyGg8" frameborder="0" allowfullscreen></iframe>
 
 Funding Source
 ==============
