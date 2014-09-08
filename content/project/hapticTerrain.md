@@ -6,12 +6,13 @@
 	"authors": ["willemsn.md", "gilbe487.md", "redi0068.md"]
 }
 
+
 Project Overview
 ================
 
 ![Image from ongoing work on the immersive display.](http://d.umn.edu/~sivelab/media/hapticTerrain_011314.jpg "Haptic Terrain Stereo Display System")
 
-The PIs' goal in this research is to realistically display terrain in
+The PIs' goals in this research is to realistically display terrain in
 an immersive Virtual Reality (VR) locomotion interface, based upon
 modification of the foot/terrain interaction coupled with graphical
 and auditory display of the terrain and user interaction. Project
@@ -64,6 +65,11 @@ rigorous human participant studies. Research findings will be
 disseminated via websites and at major conferences, and also
 integrated into the robotics, virtual reality, ergonomics, and
 physical therapy curricula.
+
+Recent Updates
+==============
+
+[![Locomotion](https://www.youtube.com/watch?v=rf6UpAUyGg8/0.jpg](https://www.youtube.com/watch?v=rf6UpAUyGg8)
 
 Funding Source
 ==============
