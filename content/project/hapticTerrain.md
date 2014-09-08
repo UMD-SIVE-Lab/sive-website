@@ -69,6 +69,8 @@ physical therapy curricula.
 Recent Updates
 ==============
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8_Z1mxrpGo" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rf6UpAUyGg8" frameborder="0" allowfullscreen></iframe>
 
 Funding Source
