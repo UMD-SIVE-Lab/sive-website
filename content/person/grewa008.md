@@ -5,5 +5,4 @@
 	"status": "",
 	"positions": ["Undergrad Research Assistant"]
 }
-
-Place your content here. The information above is meta-data.
+Some description of Ryan
