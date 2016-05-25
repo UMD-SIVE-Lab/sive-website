@@ -3,7 +3,7 @@
 	"description": "Reforming the QUIC GUI system for more sustainable long-term expandability and maintenance.",
 	"date": "2013-12-01",
 	"status": "active",
-	"authors": ["willemsn.md", "makix217.md", "jungs001.md"]
+	"authors": ["willemsn", "makix217", "jungs001"]
 }
 
 Project Overview
@@ -25,6 +25,3 @@ of Utah and the University of Minnesota Duluth.
 
 * [Eric R. Pardyjak](http://mech.utah.edu/people/faculty/eric-pardyjak-associate-professor/)
 * [Peter Willemsen](http://www.d.umn.edu/~willemsn)
-
-
-

@@ -4,17 +4,17 @@
   <meta charset="utf-8" />
   <title>SIVE Lab{{if .Title }}|{{ .Title }}{{end}}</title>
   <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-  <link href="http://{{.Site.BaseUrl}}/style.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="{{.Site.BaseURL}}/style.css" rel="stylesheet" type="text/css" media="all" />
   <!--[if IE 6]><link href="static/default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 </head>
 <body>
   <header>
-    <h1><a href="http://{{.Site.BaseUrl}}" >SIVE Lab</a></h1>
+    <h1><a href="{{.Site.BaseURL}}" >SIVE Lab</a></h1>
     <span><a href="http://www.d.umn.edu">University of Minnesota Duluth</a></span>
     <ul>
-      <li><a href="http://{{.Site.BaseUrl}}">Home</a></li>
-      <li><a href="http://{{.Site.BaseUrl}}article/">News</a></li>
-      <li><a href="http://{{.Site.BaseUrl}}person/">People</a></li>
-      <li><a href="http://{{.Site.BaseUrl}}project/">Research</a></li>
+      <li><a href="{{.Site.BaseURL}}">Home</a></li>
+      <li><a href="{{.Site.BaseURL}}article/">News</a></li>
+      <li><a href="{{.Site.BaseURL}}person/">People</a></li>
+      <li><a href="{{.Site.BaseURL}}project/">Research</a></li>
     </ul>
   </header>

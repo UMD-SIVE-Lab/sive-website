@@ -3,7 +3,7 @@
 	"description": "Haptic display of terrain characteristics and its application in virtual and physical worlds.",
 	"date": "2012-10-01",
 	"status": "active",
-	"authors": ["willemsn.md", "gilbe487.md", "redi0068.md"]
+	"authors": ["willemsn", "gilbe487", "redi0068"]
 }
 
 
@@ -97,6 +97,3 @@ of Utah and the University of Minnesota Duluth.
 * [Andrew Merryweather](http://mech.utah.edu/people/faculty/andrew-merryweather-assistant-professor/)
 * [Mark Minor](http://mech.utah.edu/people/faculty/mark-a-minor-associate-professor/)
 * [Peter Willemsen](http://www.d.umn.edu/~willemsn)
-
-
-

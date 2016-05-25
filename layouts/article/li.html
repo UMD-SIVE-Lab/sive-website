@@ -1,8 +1,8 @@
 <li>
-  <h2><a href="http://{{.Permalink}}">{{.Title}}</a>
+  <h2><a href="{{.Permalink}}">{{.Title}}</a>
  </h2>
-  {{.Date.Format "January 2, 2006"}} | 
-  <a href="http://{{.Permalink}}#disqus_thread" data-disqus-identifier="article/{{.Title}}">Comments</a>
+  {{.Date.Format "January 2, 2006"}} |
+  <a href="{{.Permalink}}#disqus_thread" data-disqus-identifier="article/{{.Title}}">Comments</a>
   <br/>
   {{ .Description }}
 </li>

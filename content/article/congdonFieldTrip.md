@@ -2,8 +2,8 @@
 	"title": "Second Grade Field Trip - What is Computer Science?",
 	"description": "Second Grade Field Trip to Learn about Computer Science",
 	"date": "2013-05-02",
-	"authors": ["willemsn.md"]
-	"projects": ["hapticTerrain.md", "learningToCode.md", "genusis.md"] 
+	"authors": ["willemsn"]
+	"projects": ["hapticTerrain", "learningToCode", "genusis"] 
 }
 
 Congdon Park Field Trip - Learning about Computer Science
@@ -19,7 +19,7 @@ like and what we as computer scientists do.
 
 Specifically, seven stations were setup in the SIVE Lab to provide
 exposure, engaging experiences, and an education to the 2nd graders to
-a variety of computer science related topics. 
+a variety of computer science related topics.
 
 Each station focused on a small and specific subset of computer
 science ranging from what a computer is, how we represent the alphabet
@@ -92,4 +92,3 @@ like the lab's focus, was interdisciplinary in nature, hi-lighting
 areas where computer scientists work collaboratively with researchers
 and scientists to provide greater understanding and knowledge about
 our world.
-

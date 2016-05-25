@@ -3,7 +3,7 @@
 	"description": "Local Energy-budget Measurement Station at UMD.",
 	"date": "2012-06-13",
 	"status": "active",
-	"authors": ["willemsn.md", "over0219.md"]
+	"authors": ["willemsn", "over0219"]
 }
 
 Beginning in June 2012, as part of outreach activities for the [NSF-funded GEnUSiS Project](http://www.d.umn.edu/~sivelab/project/genusis), a LEMS (Local Energy-budget Measurement Station) from University of Utah faculty and students has been used to help teach about green infrastructure in the urban microclimate. The LEMS data is also integrated into our urban environment energy simulation software, QUIC EnvSim (see the [GEnUSiS Project Page](http://www.d.umn.edu/~sivelab/project/genusis) for more information). Our past efforts, from June 2013, have been documented on the following page, [UMD Outreach 2013](http://www.eng.utah.edu/~pardyjak/UMD_BB_2013.php).

@@ -5,12 +5,17 @@
   {{if .Params.authors}}
   Authors:
   {{end}}
-  {{range $index, $author := .Params.authors}}{{range $page := $root.Site.Recent}}{{if eq $page.FileName $author}}{{if $index}}|{{end}}<a href="http://{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
+  {{range $index, $author := .Params.authors}}
+  {{range $page := $root.Site.Pages}}
+  {{if eq (replace ( replace $page.File.LogicalName $page.File.Ext "" ) "." "") $author}}
+  {{if $index}}|{{end}}<a href="{{$page.Permalink}}">
+    {{$page.Title}}</a>
+    {{end}}{{end}}{{end}}
 <br/>
   {{if .Params.projects}}
   Projects:
   {{end}}
-  {{range $index, $project := .Params.projects}}{{range $page := $root.Site.Recent}}{{if eq $page.FileName $project}}{{if $index}}|{{end}}<a href="http://{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
+  {{range $index, $project := .Params.projects}}{{range $page := $root.Site.Pages}}{{if eq (replace ( replace $page.File.LogicalName $page.File.Ext "" ) "." "") $project}}{{if $index}}|{{end}}<a href="{{$page.Permalink}}">{{$page.Title}}</a>{{end}}{{end}}{{end}}
 <br/>
 Published: {{.Date.Format "January 2, 2006"}}
 <br/>
@@ -40,6 +45,6 @@ Published: {{.Date.Format "January 2, 2006"}}
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
+
 </div>
 {{ template "chrome/footer.html" . }}

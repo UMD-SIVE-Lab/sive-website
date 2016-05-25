@@ -2,7 +2,7 @@
 	"title": "Pretty Profiling Graphs in Linux",
 	"description": "Profiling an application can be pretty useful. Visualizing it in a meaningful way can be even more helpful.",
 	"date": "2011-10-18",
-	"authors": ["halve160.md"]
+	"authors": ["halve160"]
 }
 
 Profiling an application can be pretty useful. Visualizing it in a meaningful way can be even more helpful. Following the information in this post should get you on the right track to creating useful visualizations of your application like this:
@@ -78,4 +78,3 @@ This works by piping the output from gprof into gprof2Top. The output from that 
 * -o output.png - this is the output file that dot produces.
 
 Hopefully that's enough to get you started!
-

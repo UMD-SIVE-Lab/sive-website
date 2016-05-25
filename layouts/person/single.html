@@ -8,15 +8,15 @@
 <div>
   {{.Content}}
 
-  
+
 </div>
-{{if index .Site.Indexes.authors .FileName}}
+{{if index .Site.Taxonomies.authors ( replace ( replace .File.LogicalName .File.Ext "" ) "." "")}}
 
 <div class="dark">
 <h2>Articles and Research</h2>
 </div>
 <ul>
-{{range index .Site.Indexes.authors .FileName}}
+{{range index .Site.Taxonomies.authors ( replace ( replace .File.LogicalName .File.Ext "" ) "." "")}}
 {{.Page.Render "li"}}
 {{end}}
 </ul>

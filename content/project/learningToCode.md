@@ -3,7 +3,7 @@
 	"description": "Teaching Elementary Students about Problem Solving and Computer Programming.",
 	"date": "2014-03-01",
 	"status": "active",
-	"authors": ["willemsn.md"]
+	"authors": ["willemsn"]
 }
 
 Project Overview
@@ -35,9 +35,9 @@ For the first pass at this project, we are providing three sessions, each about 
 
 ### Session 1 - Scratch Introduction
 
-### Session 2 - 
+### Session 2 -
 
-### Session 3 - 
+### Session 3 -
 
 Student Collaborators
 =====================
@@ -49,7 +49,3 @@ Teaching problem solving skills and computer programming to elementary students 
 * Mehdi Mohsenian
 * Grant Phillips
 * Max Steel
-
-
-
-

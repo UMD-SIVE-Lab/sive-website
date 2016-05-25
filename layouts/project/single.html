@@ -6,10 +6,10 @@
   Researchers:
   {{end}}
   {{range $index, $author := .Params.authors}}
-  {{range $page := $root.Site.Recent}}
-  {{if eq $page.FileName $author}}
+  {{range $page := $root.Site.Pages}}
+  {{if eq (replace ( replace $page.File.LogicalName $page.File.Ext "" ) "." "") $author}}
   {{if $index}}|{{end}}
-  <a href="http://{{$page.Permalink}}">{{$page.Title}}</a>
+  <a href="{{$page.Permalink}}">{{$page.Title}}</a>
   {{end}}
   {{end}}
   {{end}}
@@ -18,13 +18,13 @@
   {{.Content}}
 </div>
 
-{{if index .Site.Indexes.projects .FileName}}
+{{if index .Site.Taxonomies.projects ( replace ( replace .File.LogicalName .File.Ext "" ) "." "") }}
 
 <div class="dark">
 <h2>Related Articles</h2>
 </div>
 <ul>
-{{range index .Site.Indexes.projects .FileName}}
+{{range index .Site.Taxonomies.projects ( replace ( replace .File.LogicalName .File.Ext "" ) "." "" )}}
 {{.Page.Render "li"}}
 {{end}}
 </ul>

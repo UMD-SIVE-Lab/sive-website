@@ -3,7 +3,7 @@
 	"description": "GPU Plume - Green Environmental Urban Simulations for Sustainability.",
 	"date": "2006-10-01",
 	"status": "active",
-	"authors": ["willemsn.md", "norg0039.md"]
+	"authors": ["willemsn", "norg0039"]
 }
 
 Project Overview
@@ -32,7 +32,7 @@ We also utilize interactive and immersive virtual environment technology to prov
 
 Related Publications
 ====================
-* B. Singh, E.R. Pardyjak, A. Norgren, and P. Willemsen. *Accelerating Urban Fast Response Lagrangian Dispersion Simulations Using Inexpensive Graphics Processor Parallelism.* Environmental Modeling and Software, 26(6), pp. 739--750, June 2011. 
+* B. Singh, E.R. Pardyjak, A. Norgren, and P. Willemsen. *Accelerating Urban Fast Response Lagrangian Dispersion Simulations Using Inexpensive Graphics Processor Parallelism.* Environmental Modeling and Software, 26(6), pp. 739--750, June 2011.
 * P. Willemsen, A. Norgren, B. Singh, and E.R. Pardyjak. *Integrating Particle Dispersion Models into Real-time Virtual Environments.* Proceedings of the Eurographics Symposium on Virtual Environments 2008}, p. 57--63, May 2008.
 
 Funding Source
@@ -62,4 +62,3 @@ Department of Computer Science.
 * [David E. Johnson](http://www.cs.utah.edu/~dejohnso/)
 * [Eric R. Pardyjak](http://mech.utah.edu/people/faculty/eric-pardyjak-associate-professor/)
 * [Peter Willemsen](http://www.d.umn.edu/~willemsn)
-

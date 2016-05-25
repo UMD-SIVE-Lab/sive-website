@@ -3,7 +3,7 @@
 	"description": "GEnUSiS - Green Environmental Urban Simulations for Sustainability.",
 	"date": "2010-11-14",
 	"status": "active",
-	"authors": ["willemsn.md", "over0219.md", "thoma891.md", "veges002.md", "halve160.md", "lars2865.md", "clark617.md"]
+	"authors": ["willemsn", "over0219", "thoma891", "veges002", "halve160", "lars2865", "clark617"]
 }
 
 ![Image from QUIC EnvSim](http://d.umn.edu/~sivelab/media/genusis_header.jpg "GEnUSiS")
@@ -94,4 +94,3 @@ earch-assistant-professor/)
 * [W. James Steenburgh](http://www.atmos.utah.edu/?module=facultyDetails&personId=11080&orgId=311)
 * [Rob Stoll](http://mech.utah.edu/people/faculty/rob-stoll-assistant-professor/)
 * [Peter Willemsen](http://www.d.umn.edu/~willemsn)
-

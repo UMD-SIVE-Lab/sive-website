@@ -2,8 +2,8 @@
 	"title": "Article on CS Undergrads Teaching Programming",
 	"description": "Undergraduates teach middle schoolers how to program using Scratch",
 	"date": "2014-03-07",
-	"authors": ["willemsn.md"],
-	"projects": ["learningToCode.md"]
+	"authors": ["willemsn"],
+	"projects": ["learningToCode"]
 }
 
 Article on using Scratch to Teach Programming to Middle Schoolers
@@ -16,7 +16,7 @@ This article
 
 focuses on the experience of teaching undergraduate computer science
 students to teach programming, using Scratch, to middle school
-students. 
+students.
 
 This is definitely an interesting approach to help bridge the issues
 involved with teaching programming throughout the K-12 range. Computer
