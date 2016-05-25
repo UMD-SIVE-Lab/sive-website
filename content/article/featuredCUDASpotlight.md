@@ -2,7 +2,7 @@
 	"title": "Featured on NVIDIA's CUDA Spotlight",
 	"description": "GPUs for Green Urban Planning using NVIDIA Hardware",
 	"date": "2012-08-13",
-	"authors": ["willemsn"]
+	"authors": ["willemsn"],
 	"projects": ["genusis"]
 }
 

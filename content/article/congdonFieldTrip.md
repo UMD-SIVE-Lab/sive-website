@@ -2,8 +2,8 @@
 	"title": "Second Grade Field Trip - What is Computer Science?",
 	"description": "Second Grade Field Trip to Learn about Computer Science",
 	"date": "2013-05-02",
-	"authors": ["willemsn"]
-	"projects": ["hapticTerrain", "learningToCode", "genusis"] 
+	"authors": ["willemsn"],
+	"projects": ["hapticTerrain", "learningToCode", "genusis"]
 }
 
 Congdon Park Field Trip - Learning about Computer Science
