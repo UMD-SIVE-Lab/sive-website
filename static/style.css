@@ -7,6 +7,7 @@ body {
     /* font-weight: 300; */
     margin: 0px;
     padding: 0px;
+    margin-bottom: 25px;
 }
 
 header a {
@@ -27,7 +28,6 @@ header span{
 
 header ul {
     position: absolute;
-    right: calc(50% - 600px);
     top: 0px;
     list-style: none;
     margin: 0px;
@@ -64,13 +64,6 @@ h1 {
 
 h2 {
     font-size: 1.25em;
-}
-
-body>* {
-    margin: 0px;
-    padding-left: calc(50% - 600px);
-    padding-right: calc(50% - 600px);
-    padding-top: 5px;
 }
 
 footer {
@@ -117,3 +110,110 @@ img[alt=MDthumbnail] { width: 480px; }
 img[alt=LGthumbnail] { width: 640px; }
 img[alt=VLthumbnail] { width: 800px; }
 img[alt=XLthumbnail] { width: 1000px; }
+
+/* Size dependent styles below here. */
+
+.mobile-only {
+  display: none;
+}
+
+@media all and (max-width: 768px) {
+  .mobile-only {
+    display: inherit;
+  }
+
+  header span {
+    display: block;
+    padding-bottom: 10px;
+  }
+
+  header h1 {
+    border: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  header > a {
+    /*color: rgb(255, 255, 255);*/
+    position: absolute;
+    right: 25px;
+    top: 20px;
+    background: rgb(236, 236, 236);
+    padding: 10px 12px 10px 12px;
+    z-index: 0;
+  }
+
+  header > a > div {
+    width: 22px;
+    height: 4px;
+    background-color: #6c6c6c;
+    margin: 3px 0;
+  }
+
+
+  header ul {
+    display: none;
+    z-index: 1;
+  }
+
+  header ul.open {
+    width: 100%;
+    display: block;
+    position: fixed;
+  }
+
+  header ul.open li {
+    float: none;
+    width: 100%;
+  }
+  header ul.open li a {
+    width: 100%;
+    background: rgba(200, 200, 200, 0.9);
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  header ul>div {
+    height: 10000px;
+    width: 100%;
+    display: block;
+    background: rgba(200, 200, 200, 0.9);
+  }
+}
+
+@media all and (max-width: 1024px) {
+  header span {
+    display: block;
+    padding-bottom: 10px;
+  }
+
+  header h1 {
+    border: 0;
+    margin-bottom: 5px;
+  }
+}
+
+@media all and (max-width: 1230px) {
+  header ul {
+    right: 0px;
+  }
+
+  body>* {
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 5px;
+  }
+}
+
+@media all and (min-width: 1230px) {
+  header ul {
+    right: calc(50% - 600px);
+  }
+  body>* {
+      margin: 0px;
+      padding-left: calc(50% - 600px);
+      padding-right: calc(50% - 600px);
+      padding-top: 5px;
+  }
+}
